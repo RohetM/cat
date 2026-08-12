@@ -28,9 +28,6 @@ services:
     plan: free
     rootDir: frontend
     dockerfilePath: ./Dockerfile
-    dockerBuildArgs:
-      - key: NEXT_PUBLIC_API_URL
-        value: https://catalogiq-backend.onrender.com
     envVars:
       - key: NEXT_PUBLIC_API_URL
         value: https://catalogiq-backend.onrender.com
