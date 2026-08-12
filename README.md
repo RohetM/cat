@@ -191,9 +191,25 @@ RohetM-cat/
 │   ├── package.json
 │   └── tailwind.config.js
 ├── docker-compose.yml
+├── render.yaml                       # Render Blueprint cloud deployment (Free tier)
 ├── vendor_feed_raw.csv               # Sample raw vendor test feed
 └── README.md
 ```
+
+---
+
+## Cloud Deployment (Render Free Tier)
+
+Deploy CatalogIQ to Render with zero credit card required:
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
+1. Go to **[Render Dashboard](https://dashboard.render.com)** → **New +** → **Blueprint**.
+2. Select repository `RohetM/cat`.
+3. Render automatically provisions `catalogiq-backend` (FastAPI) and `catalogiq-frontend` (Next.js standalone).
+4. Optionally supply `OPENAI_API_KEY` / `GEMINI_API_KEY` in the environment settings (or run 100% deterministically with 0 API keys).
+5. Click **Apply** to deploy!
+
 
 ---
 
