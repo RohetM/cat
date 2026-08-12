@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-CatalogIQ%20Studio-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://catalogiq-frontend.onrender.com/demo)
+
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
@@ -14,7 +16,9 @@
 
 *Transforms sparse 6-column supplier CSV rows into standardized, guaranteed 252-column B2B commerce records using a high-throughput 3-layer trust architecture.*
 
-[Live Demo Studio (http://localhost:3000/demo)](http://localhost:3000/demo) · [HITL Review Queue](http://localhost:3000/review) · [Metrics Dashboard](http://localhost:3000/dashboard) · [API Docs](http://localhost:8000/docs) · [Architecture](#architecture) · [Docker Quick Start](#docker-deployment)
+### 🚀 **[Try Live Demo Studio](https://catalogiq-frontend.onrender.com/demo)**
+
+[Live Demo (Cloud)](https://catalogiq-frontend.onrender.com/demo) · [HITL Review Queue](https://catalogiq-frontend.onrender.com/review) · [Metrics Dashboard](https://catalogiq-frontend.onrender.com/dashboard) · [Architecture](#3-layer-trust-architecture) · [Docker Quick Start](#quick-start-docker--local)
 
 </div>
 
@@ -198,9 +202,14 @@ RohetM-cat/
 
 ---
 
-## Cloud Deployment (Render Free Tier)
+## Live Demo & Cloud Deployment (Render)
 
-Deploy CatalogIQ to Render with zero credit card required:
+> 🚀 **Live Production Demo:** **[https://catalogiq-frontend.onrender.com/demo](https://catalogiq-frontend.onrender.com/demo)**
+> - **Interactive Demo Studio:** [https://catalogiq-frontend.onrender.com/demo](https://catalogiq-frontend.onrender.com/demo)
+> - **HITL Review Queue:** [https://catalogiq-frontend.onrender.com/review](https://catalogiq-frontend.onrender.com/review)
+> - **Metrics & Evaluation Dashboard:** [https://catalogiq-frontend.onrender.com/dashboard](https://catalogiq-frontend.onrender.com/dashboard)
+
+Deploy your own instance of CatalogIQ to Render with zero credit card required:
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
@@ -254,6 +263,7 @@ Deploy CatalogIQ to Render with zero credit card required:
 
 ## Repository & Submission Details
 
+* **Live Demo:** [https://catalogiq-frontend.onrender.com/demo](https://catalogiq-frontend.onrender.com/demo)
 * **Repository:** [https://github.com/RohetM/cat](https://github.com/RohetM/cat)
 * **Event:** Unilog UniHack 2024
 * **License:** MIT
