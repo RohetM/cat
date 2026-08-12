@@ -12,6 +12,7 @@ interface Product {
   enrichment_source: string;
   mfg_part_num: string | null;
   part_desc: string | null;
+  part_manuf_raw?: string | null;
   manufacturer_name: string | null;
   brand_name: string | null;
   part_number: string | null;

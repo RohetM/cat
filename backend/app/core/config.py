@@ -1,4 +1,4 @@
-﻿"""
+"""
 CatalogIQ â€“ Application Settings
 Uses pydantic-settings for typed, env-driven configuration.
 """
