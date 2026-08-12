@@ -1,0 +1,8 @@
+INFO:     Will watch for changes in these directories: ['D:\\cat\\backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [3488] using WatchFiles
+INFO:     Started server process [30096]
+INFO:     Waiting for application startup.
+2026-08-11 21:28:17,271 [INFO] app.main – 🚀 CatalogIQ starting up – initialising database…
+2026-08-11 21:28:17,314 [INFO] app.main – ✅ Database ready.
+INFO:     Application startup complete.
